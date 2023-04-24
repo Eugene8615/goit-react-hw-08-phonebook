@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.19b644bf.js",
-    "static/media/Rick-avatar.png": "/react-homework-template/static/media/Rick-avatar.32672833cc7897d2d786.png",
-    "static/media/Rick-dance.gif": "/react-homework-template/static/media/Rick-dance.d78bf89a8da978329df1.gif",
-    "static/media/Morti.png": "/react-homework-template/static/media/Morti.502350786b633f9f4cf9.png",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.19b644bf.js.map": "/react-homework-template/static/js/main.19b644bf.js.map"
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.1bf79cdc.js",
+    "static/media/Rick-avatar.png": "/goit-react-hw-08-phonebook/static/media/Rick-avatar.32672833cc7897d2d786.png",
+    "static/media/Rick-dance.gif": "/goit-react-hw-08-phonebook/static/media/Rick-dance.d78bf89a8da978329df1.gif",
+    "static/media/Morti.png": "/goit-react-hw-08-phonebook/static/media/Morti.502350786b633f9f4cf9.png",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
+    "main.1bf79cdc.js.map": "/goit-react-hw-08-phonebook/static/js/main.1bf79cdc.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.19b644bf.js"
+    "static/js/main.1bf79cdc.js"
   ]
 }
